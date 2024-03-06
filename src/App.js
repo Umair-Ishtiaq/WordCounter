@@ -14,6 +14,7 @@ function App() {
         <Link to='/About'></Link>
 
         <Routes>
+        <Route path='/WordCounter' element={<Home />} />
           <Route path='/Home' element={<Home/>}/>
           <Route path='/About'  element={<About/>}/>
         </Routes>
