@@ -1,0 +1,25 @@
+h1,h2{
+    margin-top: 5%;
+}
+textarea{
+    margin:20px 0 20px 0;
+}
+.body>.btn{
+    width: 200px;
+    font-size: 18px;
+}
+
+.body>label{
+    font-size: 25px;
+}
+.input{
+    width: 30%;
+}
+.bodybtns>button{
+    width: 200px;
+    font-size: 17px;
+}
+.preview{
+    border: 1px solid rgb(60, 115, 204);
+    border-radius: 5px;
+}

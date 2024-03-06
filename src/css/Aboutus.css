@@ -1,0 +1,61 @@
+.About1 {
+    margin-top: 80px;
+    border: 2px solid rgb(94, 132, 255);
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+
+.About1:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(94, 132, 255, 0.8);
+    border-color: #fff;
+    background-color: rgb(94, 132, 255);
+}
+
+.About1 > h1 {
+    font-weight: bold;
+    padding: 0px 10px 0;
+    transition: all 0.3s ease;
+}
+
+.About1:hover > h1 {
+    color: #fff;}
+
+.About1 > p {
+    font-size: 20px;
+    padding: 0px 10px 0;
+    transition: all 0.3s ease;
+}
+
+.About1:hover > p {
+    color: #fff;
+}
+
+.About2{
+    margin-top: 80px;
+}
+.About2>h1{
+    padding:0 0 0 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#Aboutimg{
+    height: 110px;
+    padding : 20px 0px 20px 15px;
+
+}
+#Aboutimg2{
+    height: 120px;
+    width: 300px;
+    padding : 0px 0px 20px 15px;
+
+}
+
+#icon{
+    padding-left: 15px;
+}
+
+.About2>a{
+    font-size: 20px;
+}
