@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/WordCounter/static/css/main.d96f902c.css",
-    "main.js": "/WordCounter/static/js/main.fd22040d.js",
+    "main.js": "/WordCounter/static/js/main.e2cfbb49.js",
     "static/js/453.b6ed7350.chunk.js": "/WordCounter/static/js/453.b6ed7350.chunk.js",
     "static/media/techcraft.png": "/WordCounter/static/media/techcraft.6cbeaa7d40da9f2a3b70.png",
     "index.html": "/WordCounter/index.html",
     "main.d96f902c.css.map": "/WordCounter/static/css/main.d96f902c.css.map",
-    "main.fd22040d.js.map": "/WordCounter/static/js/main.fd22040d.js.map",
+    "main.e2cfbb49.js.map": "/WordCounter/static/js/main.e2cfbb49.js.map",
     "453.b6ed7350.chunk.js.map": "/WordCounter/static/js/453.b6ed7350.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d96f902c.css",
-    "static/js/main.fd22040d.js"
+    "static/js/main.e2cfbb49.js"
   ]
 }
